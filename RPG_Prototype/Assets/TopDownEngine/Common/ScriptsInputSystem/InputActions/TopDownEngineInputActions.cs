@@ -97,7 +97,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""PrimaryMovement"",
                     ""type"": ""PassThrough"",
                     ""id"": ""265ae792-b274-4758-9c3f-67c2f395c758"",
-                    ""expectedControlType"": ""Vector2"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -115,7 +115,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Jump"",
                     ""type"": ""Button"",
                     ""id"": ""314ace32-fb21-4bab-a569-ebe4e48f2102"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -124,7 +124,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Run"",
                     ""type"": ""Button"",
                     ""id"": ""6b5c4b16-7607-4f0a-ad5b-62efd798065d"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -133,7 +133,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Dash"",
                     ""type"": ""Button"",
                     ""id"": ""56a37787-c3be-4789-a219-0509391dc113"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -142,7 +142,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Crouch"",
                     ""type"": ""Button"",
                     ""id"": ""5e6e408c-e79e-4f5c-87b7-8a6d181bd681"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -151,7 +151,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Shoot"",
                     ""type"": ""Button"",
                     ""id"": ""7016cc32-6ee0-4d53-b08c-02cbe6eb2c0e"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -160,7 +160,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""SecondaryShoot"",
                     ""type"": ""Button"",
                     ""id"": ""1b70a5ec-5da5-42ce-a7c0-8f54ff84052f"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -169,7 +169,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Interact"",
                     ""type"": ""Button"",
                     ""id"": ""ae461515-11b0-4cc9-b221-92ed2df4118e"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -178,7 +178,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Reload"",
                     ""type"": ""Button"",
                     ""id"": ""cf90ff3a-006b-4ae6-9594-cc2189d6f5f0"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -187,7 +187,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""Pause"",
                     ""type"": ""Button"",
                     ""id"": ""c01ffcc5-adff-4aa3-bb8d-e0139087e5ed"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -196,7 +196,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""SwitchWeapon"",
                     ""type"": ""Button"",
                     ""id"": ""6e3febaf-dba5-4b43-b4f8-3b720e7ad1be"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -205,7 +205,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""SwitchCharacter"",
                     ""type"": ""Button"",
                     ""id"": ""cde4a43f-3a08-47c8-afdf-2c5dca8d1241"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -214,7 +214,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""TimeControl"",
                     ""type"": ""Button"",
                     ""id"": ""c71e92f2-77ca-4de6-98ad-64b961ed706e"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -223,7 +223,7 @@ namespace MoreMountains.TopDownEngine
                     ""name"": ""CameraRotation"",
                     ""type"": ""PassThrough"",
                     ""id"": ""239ee3ca-17ea-4fb2-85ef-91f8046dfddb"",
-                    ""expectedControlType"": ""Axis"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -242,7 +242,7 @@ namespace MoreMountains.TopDownEngine
                     ""isPartOfComposite"": false
                 },
                 {
-                    ""name"": ""up"",
+                    ""name"": ""Up"",
                     ""id"": ""2e66d043-6153-419e-932e-0bbd8ef8df6b"",
                     ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
@@ -253,7 +253,7 @@ namespace MoreMountains.TopDownEngine
                     ""isPartOfComposite"": true
                 },
                 {
-                    ""name"": ""down"",
+                    ""name"": ""Down"",
                     ""id"": ""f1c785e7-a3bf-4f5c-9d5a-2302a0b10975"",
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
@@ -264,7 +264,7 @@ namespace MoreMountains.TopDownEngine
                     ""isPartOfComposite"": true
                 },
                 {
-                    ""name"": ""left"",
+                    ""name"": ""Left"",
                     ""id"": ""36b9b939-b3ed-40a9-a305-7ed3251f5a9b"",
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
@@ -275,7 +275,7 @@ namespace MoreMountains.TopDownEngine
                     ""isPartOfComposite"": true
                 },
                 {
-                    ""name"": ""right"",
+                    ""name"": ""Right"",
                     ""id"": ""d7bfdd17-5246-4bde-aa16-bcb3ea0467a1"",
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
@@ -540,6 +540,17 @@ namespace MoreMountains.TopDownEngine
                 },
                 {
                     ""name"": """",
+                    ""id"": ""cdf183e6-c60a-4116-bc6a-cb35487d838e"",
+                    ""path"": ""<Mouse>/delta"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""SecondaryMovement"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""2f940a20-9887-4115-a4cc-f2bcfaa3209c"",
                     ""path"": ""<Gamepad>/rightStick"",
                     ""interactions"": """",
@@ -552,10 +563,10 @@ namespace MoreMountains.TopDownEngine
                 {
                     ""name"": """",
                     ""id"": ""77200925-45c4-4483-b584-d3255b060915"",
-                    ""path"": """",
+                    ""path"": ""<Mouse>/delta"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": ""Keyboard"",
+                    ""groups"": """",
                     ""action"": ""CameraRotation"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
