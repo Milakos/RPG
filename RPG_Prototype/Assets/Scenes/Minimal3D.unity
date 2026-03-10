@@ -9529,7 +9529,7 @@ PrefabInstance:
     - target: {fileID: 1452049700041732536, guid: 17f8727b1ec73e44db904926e9be0c34,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.01
+      value: 4.34
       objectReference: {fileID: 0}
     - target: {fileID: 1452049700041732536, guid: 17f8727b1ec73e44db904926e9be0c34,
         type: 3}
@@ -29761,7 +29761,7 @@ SkinnedMeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3125284951857077294}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -39888,7 +39888,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!137 &7072829986531309495
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
